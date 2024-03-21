@@ -1,0 +1,12 @@
+.scheduler_item {
+    display: flex;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgba(218, 218, 218, 0.953);
+}
+
+.remove_item_button {
+    cursor: pointer;
+    color: red;
+    margin-left: 10px;
+}
